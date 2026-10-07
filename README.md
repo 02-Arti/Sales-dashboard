@@ -28,5 +28,5 @@ Profit and profitability trends
 Example insight:
 “The dashboard helps compare product-wise and category-wise sales and identify periods with higher sales performance.”
 7. Dashboard Screenshot
-Show what the dashboard looks like.
-Example:
+The dashboard looks like.
+Example:https://github.com/02-Arti/Sales-dashboard/blob/main/Sales.png
